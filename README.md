@@ -16,8 +16,13 @@ In addition to all the standart shell commends it supports these commends:
 
 ## How to run:
 Stap 1: Open two terminals one for the client(shell) and the second for the server.
+
+
 Step 2: In the first enter - make. Now we are ready, enter - ./shell
+
+
 Step 3: In the second terminal enter - ./server
+
 
 All done with the preperation, enjoy.
 
