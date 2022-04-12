@@ -4,8 +4,8 @@ all: shell server
 server: server.c
 	gcc -o server server.c
 
-shell: shell.c
-	gcc -o shell shell.c
+shell: main.c
+	gcc -o shell main.c
 
 %.o: %.c
 	gcc --compile $< -o $@
