@@ -24,7 +24,7 @@ Step 2: In the first enter - make. Now we are ready, enter - ./shell
 Step 3: In the second terminal enter - ./server
 
 
-All done with the preperation, enjoy.
+All done with the preperation, enjoy :)
 
 
 
