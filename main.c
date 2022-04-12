@@ -182,7 +182,7 @@ void delete_file(){
     char file_name[100];
     scanf("%s", file_name);
     if(unlink(file_name) != 0){
-        printf("ERROR in deleteing");
+        printf("ERROR in delete_file\n");
         return;
     }
     printf("File %s deleted!\n", file_name);
